@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/baseline_add_home_24"
+        android:title="home"/>
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/baseline_adjust_24"
+        android:title="search"/>
+    <item
+        android:id="@+id/reals"
+        android:icon="@drawable/baseline_access_time_24"
+        android:title="Reals"/>
+    <item
+        android:id="@+id/account"
+        android:icon="@drawable/baseline_account_box_24"
+        android:title="acount"/>
+
+
+</menu>

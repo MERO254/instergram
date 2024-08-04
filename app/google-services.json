@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "349522433306",
+    "project_id": "intergram-d0607",
+    "storage_bucket": "intergram-d0607.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349522433306:android:8660889c42b21f051488a3",
+        "android_client_info": {
+          "package_name": "com.example.instargram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnVs6j7UjUS2CB4Vy3jn_dfyc2qQn24YM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
